@@ -42,6 +42,27 @@ Please ⭐️ this repo and share it with others
        
        
 </div>
+
+
+    
+<p align="center">
+   <a href="https://github.com/AbdelrahmanBayoumi/LocationsDB/releases/latest">
+     <img src="https://img.shields.io/badge/LocationsDB-v1.0.0-green?style=flat"/> 
+   </a>
+  <a href="https://github.com/AbdelrahmanBayoumi/LocationsDB/issues">
+    <img src="https://img.shields.io/github/issues/AbdelrahmanBayoumi/LocationsDB"/> 
+  </a>
+  <a href="https://github.com/AbdelrahmanBayoumi/LocationsDB/network/members">
+    <img src="https://img.shields.io/github/forks/AbdelrahmanBayoumi/LocationsDB"/> 
+  </a>  
+  <a href="https://github.com/AbdelrahmanBayoumi/LocationsDB/stargazers">
+    <img src="https://img.shields.io/github/stars/AbdelrahmanBayoumi/LocationsDB"/> 
+  </a>
+    <a href="https://github.com/AbdelrahmanBayoumi/LocationsDB/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/AbdelrahmanBayoumi/LocationsDB"/> 
+  </a>
+</p>
+
 -----------
 
 <h6 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h6>
