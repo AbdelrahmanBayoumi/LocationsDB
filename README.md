@@ -13,7 +13,7 @@
   
 </p><br>
 
-<a href="#"><h3 align=center>⬇️ Download - تحميل ⬇️</h3></a>
+<a href="https://github.com/AbdelrahmanBayoumi/LocationsDB/releases/download/v1.0.0/locations.db"><h3 align=center>⬇️ Download - تحميل ⬇️</h3></a>
 
 <div align=center>
   <h2>Countries</h2>
